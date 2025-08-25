@@ -7,21 +7,21 @@ This introductory course explores open source large language models (LLMs), prov
 ## 🚀 Quick Start
 
 **Prerequisite:**
- • Basic understanding of Command Line Interface
- • Basic knowledge of Python
+- Basic understanding of Command Line Interface
+- Basic knowledge of Python
 
  📖 **Content:**
- • What is Large Language Model (LLM)
- • Why use Open Source LLM
- • Open Source vs Closed Models
- • Working with Open Source LLMs
- • Benefits and Use-cases
+- What is Large Language Model (LLM)
+- Why use Open Source LLM
+- Open Source vs Closed Models
+- Working with Open Source LLMs
+- Benefits and Use-cases
 
 🚀 **Demo:**
- • Getting the source code of the sample application
- • Setting up environment
- • Accessing Open Source LLM
- • Deploying and running it locally
- • Testing it to make sure it works
+- Getting the source code of the sample application
+- Setting up environment
+- Accessing Open Source LLM
+- Deploying and running it locally
+- Testing it to make sure it works
 
 ## 📝 Additional Resources
