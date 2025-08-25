@@ -2,8 +2,8 @@
 Introduction to Open Source LLM (Large Language Models)
 
 **Prerequisite:**
-Basic understanding of Command Line Interface
-Basic knowledge of Python
+ • Basic understanding of Command Line Interface
+ • Basic knowledge of Python
 
 **Description**
 This introductory course explores open source large language models (LLMs), providing an overview of their fundamentals, benefits over proprietary options, and practical applications; by the end, learners will understand key models, how to access them, and basic usage for real-world tasks.
